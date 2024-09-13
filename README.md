@@ -1,2 +1,2 @@
-# alx backend repository created by Opeyemi Alabi
+# Alx Backend Repository authored by Opeyemi Alabi
 ### alabiopex@gmail.com
